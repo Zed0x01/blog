@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "AA",
+      "datetime": "May 12, 2022 May 12, 2022",
+      "body": "AA"
+    },
+    {
+      "id": 2,
+      "title": "asdasd",
+      "datetime": "May 12, 2022 May 12, 2022",
+      "body": "asdqw"
+    }
+  ]
+}
